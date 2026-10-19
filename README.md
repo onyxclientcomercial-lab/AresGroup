@@ -26,9 +26,9 @@
 ## `01 / About me`
 
 ```javascript
-const gbzin = {
+const ares/yumi = {
     role: "Software Developer",
-    organization: "Gbzin Group",
+    organization: "Ares Group",
     interests: [
         "Web Development",
         "Software Engineering",
@@ -73,24 +73,13 @@ Meu foco é transformar ideias em projetos reais, explorar novas tecnologias e d
     </td>
   </tr>
   <tr>
-    <td width="50%">
-      <h3>🤖 Bots & Automation</h3>
-      Bots personalizados, comandos, sistemas de gerenciamento e automações de processos.
-    </td>
-    <td width="50%">
-      <h3>🧩 Digital Solutions</h3>
-      Ferramentas, aplicações e projetos próprios desenvolvidos para resolver problemas reais.
-    </td>
-  </tr>
 </table>
 
 ## `04 / Current focus`
 
-- Desenvolver aplicações modernas e responsivas.
-- Criar sistemas modulares, organizados e de fácil manutenção.
-- Evoluir projetos de automação, bots e integrações.
+- Desenvolver sites/executaveis modernas e responsivas.
 - Aprimorar arquitetura de software, APIs e boas práticas.
-- Construir produtos digitais através do **Gbzin Group**.
+- Construir produtos digitais através do **Ares Group**.
 
 ## `05 / Developer mindset`
 
